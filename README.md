@@ -38,7 +38,7 @@ Inicialmente, na concepção B2B, setor privado, **planos de saúde** (clientes 
 
 ### Participantes
 
-[<img src="https://github.com/pamellabiotec/metasaude/blob/main/imagem_projeto/equipe.png" width=150>](https://www.acpdbrasil.com/projeto-metasaude/)
+[<img src="https://github.com/pamellabiotec/metasaude/blob/main/imagem_projeto/equipe.png">](https://www.acpdbrasil.com/projeto-metasaude/)
 
 **Lista do time responsável pela iniciativa**
 
