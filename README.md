@@ -4,7 +4,7 @@
 
 ## Metaverso aplicado à Saúde com foco na Obesidade infanto-juvenil 
 
-Esse é o repositório da ** equipe MetaSAÚDE** compostos por mestrandos do [Programa de Mestrado Profissional de Telemedicina e Telessaúde](https://www.telessaude.uerj.br/mestrado/) da [Universidade do Estado do Rio de Janeiro (UERJ)](https://www.uerj.br/), iremos armazenar, neste repositório, a nossa proposta de projeto submetida ao [Hackathon UERJ by Health hub](https://sdp.saidopapel.com.br/hackathon-uerj), em resposta ao desafio 2: 
+Esse é o repositório da **equipe MetaSAÚDE** compostos por mestrandos do [Programa de Mestrado Profissional de Telemedicina e Telessaúde](https://www.telessaude.uerj.br/mestrado/) da [Universidade do Estado do Rio de Janeiro (UERJ)](https://www.uerj.br/), iremos armazenar, neste repositório, a nossa proposta de projeto submetida ao [Hackathon UERJ by Health hub](https://sdp.saidopapel.com.br/hackathon-uerj), em resposta ao desafio 2: 
 
 > ODS 3 Agenda 2030: Soluções para prevenção da obesidade infantil visando assegurar a saúde e o bem-estar ao longo da vida.
 
